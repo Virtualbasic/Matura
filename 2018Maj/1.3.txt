@@ -1,0 +1,18 @@
+Dla każdej liczby całkowitej n > 1 instrukcja oznaczona w algorytmie symbolem (*)
+wykona się
+
+Dane:
+ n – liczba całkowita dodatnia
+Wynik:
+ p – liczba całkowita dodatnia
+p ← 1
+q ← n
+dopóki p < q wykonuj
+s ← (p+q) div 2
+(*) jeżeli s*s*s < n wykonaj
+ p ← s+1
+ w przeciwnym wypadku
+ q ← s
+
+
+ODP D
