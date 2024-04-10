@@ -1,0 +1,9 @@
+s1
+15 , abcaabbaabbccba , 4 , 8
+False
+s2
+50 , abcaabbccbbccbaabcaabbaabbccbbccbaaababbbbcaababaa , 4 , 2
+False
+s3
+100 , abcaabbccbbccbaabcaabbaabbccbbccbaaababbbbcaababaaabcaabbccbbccbaabcaabbaabbccbbccbaaababbbbcaababaa , 2 , 1
+True
